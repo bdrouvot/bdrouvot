@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/bdrouvot/bdrouvot/master/bdt-logo.png "Header")]
+![Header](https://raw.githubusercontent.com/bdrouvot/bdrouvot/master/bdt-logo.png "Header")
 
 # Hey! <img src="https://raw.githubusercontent.com/bdrouvot/bdrouvot/master/wave.gif" width="30px">
 My name is Bertrand Drouvot. I'm from France, working around databases.
