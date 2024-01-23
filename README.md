@@ -2,10 +2,16 @@
 
 # Hey! <img src="https://raw.githubusercontent.com/bdrouvot/bdrouvot/master/wave.gif" width="30px">
 My name is Bertrand Drouvot. I'm from France, working around databases.
+I used to focus on Oracle but now I'm all in PostgreSQL.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a [blog](https://bdrouvot.github.io/) where I like to share databases related stuff. I used to focus on Oracle but now I'm all in PostgreSQL.
+Apart from coding, I also:
+
+* maintain a [blog](https://bdrouvot.github.io/) where I like to share databases related stuff.
+* present at conferences:
+	* [PostgreSQL presentations](https://bdrouvot.github.io/postgres-presentations/)
+	* [Oracle presentations](https://bdrouvot.github.io/oracle-presentations/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=blue)
