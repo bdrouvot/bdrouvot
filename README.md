@@ -4,7 +4,7 @@
 My name is Bertrand Drouvot. I'm from France, working around databases.  
 I used to focus on Oracle but now I'm all in PostgreSQL.
 
-## &#x270d; Blog & Writing
+## &#x270d; Blog & Presenting
 
 Apart from coding, I also:
 
