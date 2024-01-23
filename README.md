@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/bdrouvot/bdrouvot/master/bdt-logo.png "Header")
 
 # Hey! <img src="https://raw.githubusercontent.com/bdrouvot/bdrouvot/master/wave.gif" width="30px">
-My name is Bertrand Drouvot. I'm from France, working around databases.
+My name is Bertrand Drouvot. I'm from France, working around databases.  
 I used to focus on Oracle but now I'm all in PostgreSQL.
 
 ## &#x270d; Blog & Writing
