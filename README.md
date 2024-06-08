@@ -22,3 +22,5 @@ Apart from coding, I also:
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Rdbms-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Rdbms-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bdrouvot&hide=html,css&layout=compact&langs_count=10)
